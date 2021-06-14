@@ -2,7 +2,7 @@
 IEEE Student Branch at UCLA Digital Audio Visualizer (DAV) Project Lab 5 Part E
 
 ## Description
-This module creates some sort of memory storage on the FPGA. We will have access to 16 registers ans are able to assign values we want to store inside the registers. The module will be using the 10 switches and the 6 seven segment displays on the FPGA.
+This module creates some sort of memory storage on the FPGA. We will have access to 16 registers and are able to assign values we want to store inside the registers. The module will be using the 10 switches and the 6 seven segment displays on the FPGA.
 
 ## Switches
 Below are the function of the 10 switches.
